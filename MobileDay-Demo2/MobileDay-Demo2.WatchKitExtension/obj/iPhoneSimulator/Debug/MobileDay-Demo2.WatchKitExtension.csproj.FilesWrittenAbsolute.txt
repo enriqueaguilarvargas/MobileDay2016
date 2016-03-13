@@ -1,0 +1,12 @@
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll.mdb
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll
+/Users/enrique/Projects/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll.mdb
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll.mdb
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/MobileDay-Demo2WatchKitExtension.dll.mdb

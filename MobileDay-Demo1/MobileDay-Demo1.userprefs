@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MobileDay-Demo1.WatchKitExtension/MobileDay-Demo1.WatchKitExtension.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileDay-Demo1.WatchKitExtension/InterfaceController.cs">
+    <Files>
+      <File FileName="MobileDay-Demo1.WatchKitExtension/InterfaceController.cs" Line="48" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

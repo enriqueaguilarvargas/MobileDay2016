@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="MobileDay-Demo3/MobileDay-Demo3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileDay-Demo3/ViewController.cs">
+    <Files>
+      <File FileName="MobileDay-Demo3/AppDelegate.cs" Line="17" Column="3" />
+      <File FileName="MobileDay-Demo3/ViewController.cs" Line="10" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

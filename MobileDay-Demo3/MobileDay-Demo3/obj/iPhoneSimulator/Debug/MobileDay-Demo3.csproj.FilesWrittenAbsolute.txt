@@ -1,0 +1,21 @@
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/bin/iPhoneSimulator/Debug/MobileDay-Demo3.exe.mdb
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/bin/iPhoneSimulator/Debug/MobileDay-Demo3.exe
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/MobileDay-Demo3.exe
+/Users/enrique/Projects/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/MobileDay-Demo3.exe.mdb
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/bin/iPhoneSimulator/Debug/MobileDay-Demo3.exe.mdb
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/bin/iPhoneSimulator/Debug/MobileDay-Demo3.exe
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/MobileDay-Demo3.exe
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo3/MobileDay-Demo3/obj/iPhoneSimulator/Debug/MobileDay-Demo3.exe.mdb

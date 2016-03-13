@@ -1,0 +1,8 @@
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/ibtool/Interface.storyboardc/Interface.plist
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitApp/obj/iPhoneSimulator/Debug/optimized/

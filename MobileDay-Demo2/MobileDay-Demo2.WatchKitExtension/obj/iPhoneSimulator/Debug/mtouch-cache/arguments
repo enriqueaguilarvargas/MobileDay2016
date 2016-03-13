@@ -1,0 +1,38 @@
+# Version: 9.4.2.27 (cycle6-xi-c6sr2: 58ba2bc)
+# [first argument, ignore] # /Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.2.27/bin/mtouch \
+	--cache \
+	"/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug/com.companyname.mobileday-demo2.watchkitextension.appex" \
+	--executable \
+	com.companyname.mobileday-demo2.watchkitextension \
+	--extension \
+	--fastdev \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.2 \
+	--targetver \
+	8.2 \
+	--new-refcount \
+	--abi=i386 \
+	--symbollist \
+	"/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/obj/iPhoneSimulator/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/enrique/Desktop/Mobile Day/MobileDay-Demo2/MobileDay-Demo2.WatchKitExtension/bin/iPhoneSimulator/Debug//MobileDay-Demo2WatchKitExtension.dll" \

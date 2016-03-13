@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="9515"/>
+    </dependencies>
+    <scenes>
+        <!--Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController">
+                    <items>
+                        <button width="1" alignment="left" title="Ubicar" id="2Di-fw-o2M">
+                            <connections>
+                                <action selector="UbicaClick" destination="AgC-eL-Hgc" id="3"/>
+                            </connections>
+                        </button>
+                        <map height="75" alignment="left" id="EZr-Im-aFi"/>
+                        <group width="1" height="42" alignment="left" id="dd7-tx-Us7">
+                            <items>
+                                <button width="64" height="37.5" alignment="left" title="+" id="GFR-Nb-vOk">
+                                    <fontDescription key="font" type="system" pointSize="24"/>
+                                    <connections>
+                                        <action selector="btnZoomInClick" destination="AgC-eL-Hgc" id="1"/>
+                                    </connections>
+                                </button>
+                                <button width="64" alignment="left" title="-" id="pPx-9O-fnd">
+                                    <fontDescription key="font" type="system" pointSize="29"/>
+                                    <connections>
+                                        <action selector="btnZoomOutClick" destination="AgC-eL-Hgc" id="2"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                    </items>
+                    <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <connections>
+                        <outlet property="Mapa" destination="EZr-Im-aFi" id="umM-Ss-FGm"/>
+                        <outlet property="Zoom1" destination="GFR-Nb-vOk" id="YzH-Vs-Shy"/>
+                        <outlet property="Zoom2" destination="pPx-9O-fnd" id="cFB-LQ-m3a"/>
+                        <outlet property="btnUbicar" destination="2Di-fw-o2M" id="vSA-Df-8zH"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="-35"/>
+        </scene>
+    </scenes>
+</document>

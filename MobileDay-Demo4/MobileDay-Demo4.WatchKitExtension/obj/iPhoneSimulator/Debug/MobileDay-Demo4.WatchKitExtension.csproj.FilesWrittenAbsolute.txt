@@ -1,0 +1,7 @@
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/enrique/Desktop/Mobile Day/MobileDay-Demo4/MobileDay-Demo4.WatchKitExtension/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
