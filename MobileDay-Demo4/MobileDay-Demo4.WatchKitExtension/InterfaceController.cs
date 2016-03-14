@@ -17,8 +17,8 @@ namespace MobileDayDemo4.WatchKitExtension
 		public List<Clientes> clientes;
 		public static MobileServiceClient MobileService = 
 			new MobileServiceClient(
-				"https://enriqueaguilarvargas.azure-mobile.net/",
-				"ggufViKYhUcZzfyMZGqEQUVPbYMXZP11"
+				"Servicio Móvil en Azure",
+				"Token de Acceso a Azure"
 			);
 		public async Task Authenticate(UIViewController view)
 		{
